@@ -1,0 +1,9 @@
+{
+  "name": "aadya-enterprises-solar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aadya Enterprises - Solar Energy Solutions in Lucknow",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/aadya_enterprises_website/index.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/aadya_enterprises_website/$1"
+    }
+  ]
+}
